@@ -25,13 +25,6 @@
   #### -pandas, numpy, matplotlib, matplotlib.pyplot, os, operator
   #### -sklearn: .preprocessing, .metrics, .neural_netwrok, MLPCLassifier, .model_selection, 
   #### -multilabel_confusion_matrix, accuracy_score, ConfusionMatrixDisplay, StandardScaler
-  
-# Conclusion
-#### * Supervised Machine Learning models can make accurate weather predictions.
-#### * This study has already shown slight increase over time, and has potential to generalize to the rest of the world
-#### * KNN (K-Nearest Neighbor) model was the best choice for this study so far (88% accuracy).
-#### * ANN (Artifical Neural Network) has potential to produce a more complete depiction of the data, presuming adjustments are made when eliciting this model as long as there is a good understanding of the model and how to manipulate it for best outcomes.
-#### * Decision Tree was not useful as the data was too deep and  complex for a meaningful insights
 
 # Executing the code
 #### The code is available as jupyter notebooks, available under 'scripts'.
