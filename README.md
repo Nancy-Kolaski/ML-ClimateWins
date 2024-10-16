@@ -1,4 +1,4 @@
-# ML-Supervised-ClimateWins
+# ML-ClimateWins
 <img width="196" alt="image" src="https://github.com/user-attachments/assets/aa1f7b97-1940-41f7-b1fa-9d60459b6c4d">
 
 # Objective:
