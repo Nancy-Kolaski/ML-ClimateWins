@@ -36,7 +36,7 @@
   #### - bayes_opt, BayesianOptimization, LeakyReLU, BatchNormalization
 
 # Executing the code
-#### The code is available as jupyter notebooks, available under 'scripts'.
+#### The code is available as jupyter notebooks, available under 'Scripts (Supervised)' and 'Scripts (Unsupervised)'.
 
 # Presentation 
 #### The presentation is available under the 'Presentations' folder.
