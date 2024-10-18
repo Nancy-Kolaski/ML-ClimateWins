@@ -39,7 +39,7 @@
 #### The code is available as jupyter notebooks, available under 'Scripts (Supervised)' and 'Scripts (Unsupervised)'.
 
 # Presentation 
-#### The presentation is available under the 'Presentations' folder.
+#### There are two presentations available under the 'Presentations' folder: the first feature findings through supervised ML algorithms, and the second is mostly unsupervised ML.
 
 
 
