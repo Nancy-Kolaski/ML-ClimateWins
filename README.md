@@ -1,5 +1,5 @@
 # ML-ClimateWins
-<img width="196" alt="image" src="https://github.com/user-attachments/assets/aa1f7b97-1940-41f7-b1fa-9d60459b6c4d">
+![image](https://github.com/user-attachments/assets/00d26051-10a9-4474-a9e4-c114a6cf2e69)
 
 # Objective:
 ### ClimateWins is a European nonprofit organization, that is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world.
